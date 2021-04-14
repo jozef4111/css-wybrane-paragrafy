@@ -1,0 +1,25 @@
+p {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.todoitem {
+    background-color: blue;
+}
+
+.toggletodo {
+    background-color: blue;
+}
+
+.todolist {
+    background-color: blue;
+}
+
+.a {
+    opacity: 0.5;
+}
+
+.b {
+    opacity: 0.2;
+}
